@@ -37,7 +37,8 @@ namespace PROJECT_2
                     Console.WriteLine("Invalid Month Number");
                     break;
             }
-
+            // while loop
+              
             int input;
             Console.Write("Enter a Number : ");
             input = Convert.ToInt16(Console.ReadLine());
